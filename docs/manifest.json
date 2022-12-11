@@ -1,0 +1,275 @@
+{
+  "homepages": [],
+  "source_base_path": "/Users/frederikprijck/Development/authok-aspnetcore-authentication/docs-source",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "source_relative_path": "images/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/logo.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/logo.svg",
+      "output": {
+        "resource": {
+          "relative_path": "images/logo.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "fLBwnmsITQ/fvVdikmpSJEC68VLr5fYhNgyTHrG2T18="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Authok.AspNetCore.Authentication.AuthokAuthenticationParameters.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Authok.AspNetCore.Authentication.AuthokAuthenticationParameters.html",
+          "hash": "0YG3Ya6GwsWbgSsFL0EPZw4QXxleXqNgVtSY+66OhJ0="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Authok.AspNetCore.Authentication.AuthokConstants.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Authok.AspNetCore.Authentication.AuthokConstants.html",
+          "hash": "aAVtVkW17zACCMFt2qaIlBnx5spgW37AOsLSGeiHvW0="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Authok.AspNetCore.Authentication.AuthokWebAppAuthenticationBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Authok.AspNetCore.Authentication.AuthokWebAppAuthenticationBuilder.html",
+          "hash": "wguFlb0DKa7q1bFzbMN6Fj/TO8/R+A829dH+3kXF8kU="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Authok.AspNetCore.Authentication.AuthokWebAppOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Authok.AspNetCore.Authentication.AuthokWebAppOptions.html",
+          "hash": "XnN6nLgRyY7vKHOl7qeZj88e2hK9IKx/Ydk+KXlfNkg="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Authok.AspNetCore.Authentication.AuthokWebAppWithAccessTokenAuthenticationBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Authok.AspNetCore.Authentication.AuthokWebAppWithAccessTokenAuthenticationBuilder.html",
+          "hash": "MhvDp3J8syvmwMmhX8k9gN2rtzO2iW5dbd84VkaXVd0="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Authok.AspNetCore.Authentication.AuthokWebAppWithAccessTokenEvents.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Authok.AspNetCore.Authentication.AuthokWebAppWithAccessTokenEvents.html",
+          "hash": "cJ0jTzmYxyv0eqINrNw8yHhDRp/62UhD4/KtTA/uTdk="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Authok.AspNetCore.Authentication.AuthokWebAppWithAccessTokenOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Authok.AspNetCore.Authentication.AuthokWebAppWithAccessTokenOptions.html",
+          "hash": "lO6p32mPiARyVphm5Abj88Ppc68PK78PeGVcYFMIVnw="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Authok.AspNetCore.Authentication.AuthenticationBuilderExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Authok.AspNetCore.Authentication.AuthenticationBuilderExtensions.html",
+          "hash": "dy+5Ys3s0gJXZFTYvZD1uFx7JNB7Zt1zyz7DdhIsqv8="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Authok.AspNetCore.Authentication.BaseAuthenticationPropertiesBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Authok.AspNetCore.Authentication.BaseAuthenticationPropertiesBuilder.html",
+          "hash": "n1TVk7STRcVt5LYtpkXpBMc4WGUnrkj1xnxHT/OpN1g="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Authok.AspNetCore.Authentication.LoginAuthenticationPropertiesBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Authok.AspNetCore.Authentication.LoginAuthenticationPropertiesBuilder.html",
+          "hash": "hM9Cpsii8xajaVrELxW3nq45BektkXsR8ZuI3CeMH/g="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Authok.AspNetCore.Authentication.LogoutAuthenticationPropertiesBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Authok.AspNetCore.Authentication.LogoutAuthenticationPropertiesBuilder.html",
+          "hash": "0BHNglF7/A7PI/pfZFUPSPpzfhIpNtcf/jeFGBU+ygM="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Authok.AspNetCore.Authentication.ServiceCollectionExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Authok.AspNetCore.Authentication.ServiceCollectionExtensions.html",
+          "hash": "/IhGXayiObDT4Sw0Adtjyy/CVK4S5zkIS/rUmWHQgd0="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Authok.AspNetCore.Authentication.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Authok.AspNetCore.Authentication.html",
+          "hash": "HlxVuDSYhjx7rGT354l5QQasXBb61tFf5LQLBSr8eTE="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "obj/api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "WVTgMM2HGwOC/Oev72iz9iLfdv5MhNVFXQ37aW/ehxU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "3jq/2Ux3diorTPsQygWU3Q2lwjnWb3GSJbbyL7iYaPo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 1,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 13,
+          "skipped_file_count": 13
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

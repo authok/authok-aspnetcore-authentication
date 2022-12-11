@@ -1,0 +1,23 @@
+{
+  "name": "authok-aspnetcore-authentication",
+  "version": "1.0.4",
+  "description": "ASP.NET Core Authentication Middleware for Authok",
+  "scripts": {
+    "release": "node ./scripts/release",
+    "release:clean": "node ./scripts/cleanup"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/authok/authok-aspnetcore-authentication.git"
+  },
+  "author": "Authok",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/authok/authok-aspnetcore-authentication/issues"
+  },
+  "homepage": "https://github.com/authok/authok-aspnetcore-authentication#readme",
+  "devDependencies": {
+    "moment": "^2.29.4",
+    "xml2js": "^0.4.23"
+  }
+}
